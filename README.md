@@ -1,3 +1,4 @@
+![banner](https://github.com/Fidanhykolli/Fidanhykolli/assets/145963976/50eff7ff-a27d-4373-be39-aab8a45dd924)
 - 👋 Hello, I'm @Fidanhykolli!
 - 👀 I'm interested in all things related to web development.
 - 🌱 Currently, I'm learning both Front-end and Back-end to broaden my skill set.
